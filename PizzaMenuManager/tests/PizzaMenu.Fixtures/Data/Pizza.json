@@ -1,0 +1,14 @@
+[
+  {
+    "Id": 1,
+    "RowGuid": "3eb00b42-a9f0-4012-841d-70ebf3ab7474",
+    "Name": "Napolitana",
+    "PizzaIngredients": null
+  },
+  {
+    "Id": 2,
+    "RowGuid": "f08a333d-30db-4dd1-b8ba-3b0473c7cdab",
+    "Name": "Hawaiana",
+    "PizzaIngredients": null
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 1,
+    "RowGuid": "c04f05c0-f6ad-44d1-a400-3375bfb5dfd6",
+    "Name": "Aceituna",
+    "PizzaIngredients": null
+  },
+  {
+    "Id": 2,
+    "RowGuid": "86bff4f7-05a7-46b6-ba73-d43e2c45840f",
+    "Name": "Tomate",
+    "PizzaIngredients": null
+  },
+  {
+    "Id": 3,
+    "RowGuid": "b5b05534-9263-448c-a69e-0bbd8b3eb90e",
+    "Name": "Salame",
+    "PizzaIngredients": null
+  }
+]
